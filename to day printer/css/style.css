@@ -1,0 +1,14 @@
+body
+{
+    background-color: yellow;
+    border: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div
+{
+    border: solid red;
+    color: white;
+    font-size: 23px;
+}
